@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prelaunchr for WordPress\n"
+"POT-Creation-Date: 2014-12-11 21:48+1000\n"
+"PO-Revision-Date: 2014-12-11 21:49+1000\n"
+"Last-Translator: Jason Conroy <jason@findingsimple.com>\n"
+"Language-Team: Jason Conroy <jason@findingsimple.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-prelaunchr-admin.php:16
+#: includes/class-prelaunchr-admin.php:17
+#: includes/class-prelaunchr-admin.php:30
+#: includes/class-prelaunchr-admin.php:42
+#: includes/class-prelaunchr-admin.php:54
+msgid "Prelaunchr"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:31
+msgid "Entries"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:43
+msgid "Export"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:55
+#: includes/class-prelaunchr-admin.php:241
+msgid "Settings"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:110
+#: includes/class-prelaunchr-admin.php:112
+#: includes/class-prelaunchr-admin.php:120
+#: templates/thankyou/referral-progress.php:40
+msgid "Rewards"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:111
+msgid "Reward"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:113
+msgid "Add New Reward"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:114
+msgid "Edit Reward"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:115
+msgid "New Reward"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:116
+msgid "View Reward"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:117
+msgid "Search Rewards"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:118
+msgid "No rewards found"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:119
+msgid "No rewards found in trash"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:126
+msgid ""
+"Based on the amount of referrals a user has brought to the site, they are "
+"put into a different \"reward group\". The groups, amounts, and prizes are "
+"completely up to you to set."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:156
+#: includes/class-prelaunchr-admin.php:159
+msgid "Reward updated."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:157
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:158
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: includes/class-prelaunchr-admin.php:161
+#, php-format
+msgid "Reward restored to revision from %s"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:162
+msgid "Reward published."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:163
+msgid "Reward saved."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:164
+msgid "Reward submitted."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:165
+#, php-format
+msgid "Reward scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/class-prelaunchr-admin.php:167
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:168
+msgid "Reward draft updated."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:192
+#, php-format
+msgid "Items deleted: %d"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:198
+msgid "Prelaunchr Entries"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:218
+msgid "Export to CSV"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:220
+msgid ""
+"The Download button below generates a CSV file containing the email "
+"addresses, number of referrals, time of signup etc. which an be used to "
+"import into a mailing system of your choice."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:224
+msgid "Download CSV File &raquo;"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:268
+msgid "Thankyou Template"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:275
+msgid "Thankyou Text"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:287
+msgid "Display configuration for the thankyou template."
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:305
+msgid "Additional Information"
+msgstr ""
+
+#: includes/class-prelaunchr-admin.php:326
+msgid "Referrals Needed:"
+msgstr ""
+
+#: includes/class-prelaunchr-list-table.php:145
+msgid "Email"
+msgstr ""
+
+#: includes/class-prelaunchr-list-table.php:146
+#: templates/thankyou/referral-progress.php:39
+msgid "Referrals"
+msgstr ""
+
+#: includes/class-prelaunchr-list-table.php:147
+msgid "Referred By"
+msgstr ""
+
+#: includes/class-prelaunchr-list-table.php:148
+msgid "Time"
+msgstr ""
+
+#: includes/class-prelaunchr-list-table.php:149
+msgid "ID"
+msgstr ""
+
+#: prelaunchr.php:392
+msgid "Invalid Email"
+msgstr ""
+
+#: prelaunchr.php:408
+msgid "Spam detected - If this is an error please contact us directly"
+msgstr ""
+
+#: prelaunchr.php:418
+#, php-format
+msgid ""
+"Thanks we have already recorded your interest. Check your referrals <a href="
+"\"%s\">here</a>."
+msgstr ""
+
+#: prelaunchr.php:468
+msgid ""
+"Oops there was an error updating our records, please contact us directly (1)"
+msgstr ""
+
+#: prelaunchr.php:470
+msgid ""
+"Oops there was an error updating our records, please contact us directly (2)"
+msgstr ""
+
+#: templates/form/email.php:9
+msgid "Email Address:"
+msgstr ""
+
+#: templates/form/email.php:10
+msgid "your@email.com"
+msgstr ""
+
+#: templates/form/honeypot.php:9
+msgid "Name:"
+msgstr ""
+
+#: templates/form/submit.php:9
+msgid "Submit"
+msgstr ""
+
+#: templates/thankyou/referral-progress.php:35
+msgid "Here's how it works"
+msgstr ""
+
+#: templates/thankyou/referral-progress.php:36
+#, php-format
+msgid "You currently have %d Referrals!"
+msgstr ""
